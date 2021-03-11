@@ -1,3 +1,3 @@
 Repository for learning basic git flow in team
 
-Creating conflicts since 2019 KoreanPolice
+Resolving conflicts since 2020 
